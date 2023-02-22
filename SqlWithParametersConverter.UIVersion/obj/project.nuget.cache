@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MS7l+0CRtCY+566H9g/XWHdYjpQpO+kvJo0hGMCyvoPQMogBNhfsCAYSHwFQn/FZvvUIqQrchYvgg6EYS1WicA==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\SqlWithParametersConverter\\SqlWithParametersConverter.UIVersion\\SqlWithParametersConverter.UIVersion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\nsqlformatter\\2.0.0\\nsqlformatter.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

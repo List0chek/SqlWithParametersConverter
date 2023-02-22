@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1jLH+tS1p+svKH+B3Xwx3H+eIVd2Kt1jGc/GKZpPw0Zo52u4lerx5D7zHDn08LPKbftVcpS/IhLEdFVB4FUlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\SqlWithParametersConverter\\SqlWithParametersConverter.ConsoleVersion\\SqlWithParametersConverter.ConsoleVersion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\nsqlformatter\\2.0.0\\nsqlformatter.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
